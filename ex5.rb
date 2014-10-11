@@ -15,3 +15,10 @@ puts "His teeth are usually #{teeth} depending on the coffee."
 
 # this line is tricky, try to get it exactly right
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
+
+# unit conversions
+
+height_cm = height * 2.54
+weight_kg = weight * 0.453592
+
+puts "In metric units I am #{height_cm}cm tall and I weigh #{weight_kg}kg."
