@@ -1,4 +1,5 @@
 # Making an edit to push to github
+# Making a second edit to test setting default editor to edit. vim is scary..
 # Counting chickens here
 puts "I will now count my chickens:"
 # Using string interpolation for the calculations
