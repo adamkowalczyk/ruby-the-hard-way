@@ -1,0 +1,16 @@
+
+adventure game
+
+features:
+
+rooms as methods -allows free travel between locations
+player class. enemy classes?
+inventory puzzles?
+
+use cases rather than if-else trees?
+
+make general commands usable at prompts, eg. inventory
+
+TODO:
+
+draw a map with connections
